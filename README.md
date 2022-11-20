@@ -1,5 +1,5 @@
 # final
-CryptoMaulet this is a project that can help you to see the latest active transfers and the total balance of the crypto wallet. To do this, you just need to enter your wallet address and select your platform.
+CryptoMaulet this is a project that can help you to see the latest active transfers, see your nfts and check the total balance of the crypto wallet. To do this, you just need to enter your wallet address and select your platform.
 
 npm start
 
